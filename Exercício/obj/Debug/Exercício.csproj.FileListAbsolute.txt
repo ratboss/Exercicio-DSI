@@ -1,0 +1,6 @@
+C:\Users\uliss\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.AssemblyReference.cache
+C:\Users\uliss\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.SuggestedBindingRedirects.cache
+C:\Users\uliss\source\repos\Exercício\Exercício\obj\Debug\Exercício.Form1.resources
+C:\Users\uliss\source\repos\Exercício\Exercício\obj\Debug\Exercício.Properties.Resources.resources
+C:\Users\uliss\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.GenerateResource.cache
+C:\Users\uliss\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
